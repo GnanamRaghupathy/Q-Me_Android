@@ -1,4 +1,7 @@
-package com.gme.ui;
+package com.qme.ui;
+
+import com.gme.ui.R;
+import com.gme.ui.R.layout;
 
 import android.app.Activity;
 import android.os.Bundle;
